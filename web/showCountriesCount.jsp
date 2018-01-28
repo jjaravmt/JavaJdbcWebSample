@@ -12,5 +12,6 @@
 </head>
 <body>
     <p>There are <%=session.getAttribute("countriesCount")%> countries</p>
+hola
 </body>
 </html>
